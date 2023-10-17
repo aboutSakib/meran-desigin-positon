@@ -1,0 +1,56 @@
+.hero_image {
+  position: relative;
+  text-align: center;
+}
+.hero_image_one {
+  position: absolute;
+  left: 678px;
+  top: 192px;
+}
+.hero_image_two {
+  position: absolute;
+  top: 301px;
+  right: 733px;
+}
+body {
+  container: #f3fcf7;
+}
+.baby_image {
+  position: relative;
+  text-align: center;
+  margin-top: 191px;
+}
+.baby_image_one {
+  position: absolute;
+}
+.baby_image_one {
+  position: absolute;
+  left: 350px;
+  top: 340px;
+}
+.baby_image_two {
+  position: absolute;
+  left: 360px;
+  top: 180px;
+}
+
+.baby_image_thare {
+  position: absolute;
+  left: 480px;
+  top: 89px;
+}
+.baby_image_four {
+  position: absolute;
+  left: 700px;
+  top: 89px;
+}
+.baby_image_four {
+  position: absolute;
+  left: 700px;
+  top: 89px;
+}
+.baby_image_five {
+  position: absolute;
+  left: 840px;
+  top: 261px;
+}
