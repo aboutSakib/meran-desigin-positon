@@ -15,6 +15,9 @@
 body {
   container: #f3fcf7;
 }
+.postion_two {
+  position: relative;
+}
 .baby_image {
   position: relative;
   text-align: center;
@@ -36,21 +39,17 @@ body {
 
 .baby_image_thare {
   position: absolute;
-  left: 480px;
-  top: 89px;
+  left: 400px;
+  top: -31px;
 }
+
 .baby_image_four {
   position: absolute;
-  left: 700px;
-  top: 89px;
-}
-.baby_image_four {
-  position: absolute;
-  left: 700px;
-  top: 89px;
+  left: 781px;
+  top: -21px;
 }
 .baby_image_five {
   position: absolute;
-  left: 840px;
-  top: 261px;
+  left: 830px;
+  top: 161px;
 }
